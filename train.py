@@ -5,3 +5,4 @@ print(f"جواب{c}")
 b=[1,2,3]
 for a in b:
     print("hi")
+    print("how are you?")
