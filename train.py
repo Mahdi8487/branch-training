@@ -11,3 +11,4 @@ b=5
 while a<=b:
     print("my love")
     a=a+1
+    print("bye")
